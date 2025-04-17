@@ -29,25 +29,21 @@ Posteriormente también se incluye:
 * ### Análisis de facturación
 Para este ejercicio se incluyó un gráfico de barras generado a partir de la suma de ingresos de las cuatro tiendas, comparando los ingresos en millones de cada una de las tiendas.
 
-![Gráfico de barras del análisis de facturación](https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Barras.png)
 <img alt="Gráfico de barras del análisis de facturación" src="https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Barras.png">
 
 * ### Ventas por categoría
 Para este ejercicio se incluyó un gráfico de pastel, generado a partir de la cantidad de artículos vendidos de cada categoría y calculando el porcentaje de venta que representaba cada categoría en cada una de las tiendas.
 
-![Gráfico de pastel de las ventas por categoria](https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Pastel.png)
 <img alt="Gráfico de pastel de las ventas por categoria" src="https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Pastel.png">
 
 * ### Calificación promedio de la tienda
 Para este ejercicio se incluyó un gráfico de barras horizontal con cuadricula para poder observar de mejor manera, debido a que la diferencia es bastante pequeña.
 
-![Gráfico de barras horizontal de la calificación promedio](https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Barras-Horizontal.png)
 <img alt="Gráfico de barras horizontal de la calificación promedio" src="https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Barras-Horizontal.png">
 
 * ### Extra: Análisis geográfico
 Para este ejercicio se incluyó un gráfico de dispersión de puntos, comparando latitud y longitud y obtener una vista gráfica de las ubicaciones de las ventas.
 
-![Gráfico de dispersión del análisis geográfico](https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Dispersion.png)
 <img alt="Gráfico de dispersión del análisis geográfico" src="https://github.com/ASRR7/challenge-data_Science/blob/9fb84d0a2d22dd84915c2f1ed2f2e4fb54e52f76/images/Grafico_Dispersion.png">
 
 ## Instrucciones para ejecutar el notebook:
